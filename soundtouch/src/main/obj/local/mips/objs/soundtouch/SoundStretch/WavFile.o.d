@@ -12,24 +12,24 @@ C:/Users/ASUS/Downloads/MyApplication2/soundtouch/src/main//obj/local/mips/objs/
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/config/_gcc.h \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/config/stl_confix.h \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/../include/stdio.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/sys/cdefs.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/sys/cdefs_elf.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/android/api-level.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/sys/types.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/../include/stdio.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/sys/cdefs.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/sys/cdefs_elf.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/android/api-level.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/sys/types.h \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stddef.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/stdint.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/sys/_types.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/machine/_types.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/linux/posix_types.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/linux/stddef.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/linux/compiler.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/asm/posix_types.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/asm/sgidefs.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/asm/types.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/linux/types.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/machine/kernel.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/sys/sysmacros.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/stdint.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/sys/_types.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/machine/_types.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/linux/posix_types.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/linux/stddef.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/linux/compiler.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/asm/posix_types.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/asm/sgidefs.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/asm/types.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/linux/types.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/machine/kernel.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/sys/sysmacros.h \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stdarg.h \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_epilog.h \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h \
@@ -41,24 +41,24 @@ C:/Users/ASUS/Downloads/MyApplication2/soundtouch/src/main//obj/local/mips/objs/
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_cstddef.h \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_cstdlib.h \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stdlib.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/../include/stdlib.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/../include/stdlib.h \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/string.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/../include/string.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/malloc.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/alloca.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/strings.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/memory.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/../include/string.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/malloc.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/alloca.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/strings.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/memory.h \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_cmath.h \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/math.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/../include/math.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/../include/math.h \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/limits.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/../include/limits.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/sys/limits.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/linux/limits.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/machine/internal_types.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/machine/limits.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/sys/syslimits.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/asm/page.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/../include/limits.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/sys/limits.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/linux/limits.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/machine/internal_types.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/machine/limits.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/sys/syslimits.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/asm/page.h \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_cstring.h \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/using/cstring \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_algobase.h \
@@ -84,13 +84,13 @@ C:/Users/ASUS/Downloads/MyApplication2/soundtouch/src/main//obj/local/mips/objs/
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_iosfwd.h \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/char_traits.h \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_cwchar.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/../include/wchar.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/../include/wchar.h \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/time.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/../include/time.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/sys/time.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/linux/time.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/asm/siginfo.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/asm-generic/siginfo.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/../include/time.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/sys/time.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/linux/time.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/asm/siginfo.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/asm-generic/siginfo.h \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_mbstate_t.h \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_uninitialized.h \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_string_base.h \
@@ -112,13 +112,13 @@ C:/Users/ASUS/Downloads/MyApplication2/soundtouch/src/main//obj/local/mips/objs/
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_locale.h \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_threads.h \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/pthread.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/../include/pthread.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/../include/pthread.h \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/signal.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/../include/signal.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/asm/signal.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/asm-generic/signal.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/asm/sigcontext.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/sched.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/../include/signal.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/asm/signal.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/asm-generic/signal.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/asm/sigcontext.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/sched.h \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_threads.c \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_ctime.h \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_facets_fwd.h \
@@ -149,7 +149,7 @@ C:/Users/ASUS/Downloads/MyApplication2/soundtouch/src/main//obj/local/mips/objs/
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_sstream.c \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/cstring \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/assert.h \
- D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/../include/assert.h \
+ D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/../include/assert.h \
  C:/Users/ASUS/Downloads/MyApplication2/soundtouch/src/main//jni/SoundStretch/WavFile.h \
  include/STTypes.h \
  D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stdexcept \
@@ -179,41 +179,41 @@ D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/config/st
 
 D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/../include/stdio.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/../include/stdio.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/sys/cdefs.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/sys/cdefs.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/sys/cdefs_elf.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/sys/cdefs_elf.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/android/api-level.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/android/api-level.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/sys/types.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/sys/types.h:
 
 D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stddef.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/stdint.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/stdint.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/sys/_types.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/sys/_types.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/machine/_types.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/machine/_types.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/linux/posix_types.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/linux/posix_types.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/linux/stddef.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/linux/stddef.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/linux/compiler.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/linux/compiler.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/asm/posix_types.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/asm/posix_types.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/asm/sgidefs.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/asm/sgidefs.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/asm/types.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/asm/types.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/linux/types.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/linux/types.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/machine/kernel.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/machine/kernel.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/sys/sysmacros.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/sys/sysmacros.h:
 
 D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stdarg.h:
 
@@ -237,41 +237,41 @@ D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_cstdlib.
 
 D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stdlib.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/../include/stdlib.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/../include/stdlib.h:
 
 D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/string.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/../include/string.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/../include/string.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/malloc.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/malloc.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/alloca.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/alloca.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/strings.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/strings.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/memory.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/memory.h:
 
 D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_cmath.h:
 
 D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/math.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/../include/math.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/../include/math.h:
 
 D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/limits.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/../include/limits.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/../include/limits.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/sys/limits.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/sys/limits.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/linux/limits.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/linux/limits.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/machine/internal_types.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/machine/internal_types.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/machine/limits.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/machine/limits.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/sys/syslimits.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/sys/syslimits.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/asm/page.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/asm/page.h:
 
 D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_cstring.h:
 
@@ -323,19 +323,19 @@ D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/char_trai
 
 D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_cwchar.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/../include/wchar.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/../include/wchar.h:
 
 D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/time.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/../include/time.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/../include/time.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/sys/time.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/sys/time.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/linux/time.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/linux/time.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/asm/siginfo.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/asm/siginfo.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/asm-generic/siginfo.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/asm-generic/siginfo.h:
 
 D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_mbstate_t.h:
 
@@ -379,19 +379,19 @@ D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_threads.
 
 D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/pthread.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/../include/pthread.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/../include/pthread.h:
 
 D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/signal.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/../include/signal.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/../include/signal.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/asm/signal.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/asm/signal.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/asm-generic/signal.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/asm-generic/signal.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/asm/sigcontext.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/asm/sigcontext.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/sched.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/sched.h:
 
 D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/stl/_threads.c:
 
@@ -453,7 +453,7 @@ D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/cstring:
 
 D:/Android/Sdk/ndk/android-ndk-r8e/sources/cxx-stl/stlport/stlport/assert.h:
 
-D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-9/arch-mips/usr/include/../include/assert.h:
+D:/Android/Sdk/ndk/android-ndk-r8e/platforms/android-14/arch-mips/usr/include/../include/assert.h:
 
 C:/Users/ASUS/Downloads/MyApplication2/soundtouch/src/main//jni/SoundStretch/WavFile.h:
 
