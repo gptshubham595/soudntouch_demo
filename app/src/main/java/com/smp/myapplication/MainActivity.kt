@@ -2,8 +2,7 @@ package com.smp.myapplication
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.example.myapplication.R
-import com.smp.soundtouchandroid.SoundTouch
+import net.surina.soundtouch.SoundTouch
 
 
 class MainActivity : AppCompatActivity() {

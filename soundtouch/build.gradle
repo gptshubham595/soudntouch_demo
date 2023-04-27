@@ -10,13 +10,13 @@ android {
             jni.srcDirs = ['src/main/jni']
         }
     }
-    namespace "com.ola.soundtouch"
+    namespace "net.surina.soundtouch"
     compileSdkVersion 33
     buildToolsVersion '34.0.0 rc3'
 
 
     defaultConfig {
-        applicationId "com.ola.soundtouch"
+        applicationId "net.surina.soundtouch"
         minSdkVersion 21
         targetSdkVersion 33
         versionCode 1
